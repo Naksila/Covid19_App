@@ -91,7 +91,7 @@ class _DrawerState extends State<Drawer> with TickerProviderStateMixin {
                         style:
                         new TextStyle(fontSize: 17, color: Colors.white)),
                     new SizedBox(height: 5),
-                    new Text('x-xxxx-xxxx-x-xx',
+                    new Text('x-xxxx-xxxxx-x-xx',
                         style:
                         new TextStyle(fontSize: 15, color: Colors.white)),
                   ],
